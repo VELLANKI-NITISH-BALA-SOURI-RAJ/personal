@@ -1,0 +1,1352 @@
+[
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy50",
+    "fundName": "113351cyy50Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy49",
+    "fundName": "113351cyy49Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy48",
+    "fundName": "113351cyy48Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy47",
+    "fundName": "113351cyy47Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy46",
+    "fundName": "113351cyy46Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy45",
+    "fundName": "113351cyy45Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy44",
+    "fundName": "113351cyy44Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy43",
+    "fundName": "113351cyy43Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy42",
+    "fundName": "113351cyy42Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy41",
+    "fundName": "113351cyy41Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy40",
+    "fundName": "113351cyy40Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy39",
+    "fundName": "113351cyy39Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy38",
+    "fundName": "113351cyy38Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy37",
+    "fundName": "113351cyy37Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy36",
+    "fundName": "113351cyy36Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy35",
+    "fundName": "113351cyy35Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy34",
+    "fundName": "113351cyy34Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy33",
+    "fundName": "113351cyy33Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy32",
+    "fundName": "113351cyy32Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Daily",
+    "fundId": "113351cyy31",
+    "fundName": "113351cyy31Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy30",
+    "fundName": "113351cyy30Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy29",
+    "fundName": "113351cyy29Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy28",
+    "fundName": "113351cyy28Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Daily",
+    "fundId": "113351cyy27",
+    "fundName": "113351cyy27Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Daily",
+    "fundId": "113351cyy26",
+    "fundName": "113351cyy26Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy25",
+    "fundName": "113351cyy25Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy24",
+    "fundName": "113351cyy24Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy23",
+    "fundName": "113351cyy23Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy22",
+    "fundName": "113351cyy22Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy21",
+    "fundName": "113351cyy21Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy20",
+    "fundName": "113351cyy20Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy19",
+    "fundName": "113351cyy19Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy18",
+    "fundName": "113351cyy18Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy17",
+    "fundName": "113351cyy17Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy16",
+    "fundName": "113351cyy16Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy15",
+    "fundName": "113351cyy15Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy14",
+    "fundName": "113351cyy14Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy13",
+    "fundName": "113351cyy13Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy12",
+    "fundName": "113351cyy12Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy11",
+    "fundName": "113351cyy11Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy10",
+    "fundName": "113351cyy10Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy09",
+    "fundName": "113351cyy09Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy08",
+    "fundName": "113351cyy08Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy07",
+    "fundName": "113351cyy07Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy06",
+    "fundName": "113351cyy06Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy05",
+    "fundName": "113351cyy05Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy04",
+    "fundName": "113351cyy04Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy03",
+    "fundName": "113351cyy03Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy02",
+    "fundName": "113351cyy02Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy01",
+    "fundName": "113351cyy01Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy50",
+    "fundName": "113351cyy50Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy51",
+    "fundName": "113351cyy51Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy52",
+    "fundName": "113351cyy52Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy53",
+    "fundName": "113351cyy53Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy54",
+    "fundName": "113351cyy54Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy55",
+    "fundName": "113351cyy55Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy56",
+    "fundName": "113351cyy56Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy57",
+    "fundName": "113351cyy57Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy58",
+    "fundName": "113351cyy58Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy59",
+    "fundName": "113351cyy59Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy60",
+    "fundName": "113351cyy60Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy61",
+    "fundName": "113351cyy61Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy62",
+    "fundName": "113351cyy62Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy63",
+    "fundName": "113351cyy63Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy64",
+    "fundName": "113351cyy64Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy65",
+    "fundName": "113351cyy65Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy66",
+    "fundName": "113351cyy66Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy67",
+    "fundName": "113351cyy67Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy68",
+    "fundName": "113351cyy68Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy69",
+    "fundName": "113351cyy69Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy70",
+    "fundName": "113351cyy70Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy71",
+    "fundName": "113351cyy71Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy72",
+    "fundName": "113351cyy72Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Daily",
+    "fundId": "113351cyy73",
+    "fundName": "113351cyy73Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy74",
+    "fundName": "113351cyy74Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy75",
+    "fundName": "113351cyy75Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy76",
+    "fundName": "113351cyy76Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy77",
+    "fundName": "113351cyy77Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy78",
+    "fundName": "113351cyy78Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy79",
+    "fundName": "113351cyy79Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy80",
+    "fundName": "113351cyy80Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy81",
+    "fundName": "113351cyy81Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy82",
+    "fundName": "113351cyy82Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy83",
+    "fundName": "113351cyy83Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy84",
+    "fundName": "113351cyy84Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy85",
+    "fundName": "113351cyy85Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy86",
+    "fundName": "113351cyy86Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy87",
+    "fundName": "113351cyy87Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy88",
+    "fundName": "113351cyy88Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Daily",
+    "fundId": "113351cyy89",
+    "fundName": "113351cyy89Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy90",
+    "fundName": "113351cyy90Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Daily",
+    "fundId": "113351cyy91",
+    "fundName": "113351cyy91Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy92",
+    "fundName": "113351cyy92Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy93",
+    "fundName": "113351cyy93Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy94",
+    "fundName": "113351cyy94Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy95",
+    "fundName": "113351cyy95Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy96",
+    "fundName": "113351cyy96Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy97",
+    "fundName": "113351cyy97Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy98",
+    "fundName": "113351cyy98Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy99",
+    "fundName": "113351cyy99Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy100",
+    "fundName": "113351cyy100Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy101",
+    "fundName": "113351cyy101Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy102",
+    "fundName": "113351cyy102Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy103",
+    "fundName": "113351cyy103Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Daily",
+    "fundId": "113351cyy104",
+    "fundName": "113351cyy104Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy105",
+    "fundName": "113351cyy105Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy106",
+    "fundName": "113351cyy106Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy107",
+    "fundName": "113351cyy107Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Daily",
+    "fundId": "113351cyy108",
+    "fundName": "113351cyy108Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy109",
+    "fundName": "113351cyy109Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy110",
+    "fundName": "113351cyy110Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy111",
+    "fundName": "113351cyy111Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Daily",
+    "fundId": "113351cyy112",
+    "fundName": "113351cyy112Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy113",
+    "fundName": "113351cyy113Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy114",
+    "fundName": "113351cyy114Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy115",
+    "fundName": "113351cyy115Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Daily",
+    "fundId": "113351cyy116",
+    "fundName": "113351cyy116Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy117",
+    "fundName": "113351cyy117Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy118",
+    "fundName": "113351cyy118Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy119",
+    "fundName": "113351cyy119Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy120",
+    "fundName": "113351cyy120Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy121",
+    "fundName": "113351cyy121Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy122",
+    "fundName": "113351cyy122Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy123",
+    "fundName": "113351cyy123Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy124",
+    "fundName": "113351cyy124Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy125",
+    "fundName": "113351cyy125Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy126",
+    "fundName": "113351cyy126Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy127",
+    "fundName": "113351cyy127Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy128",
+    "fundName": "113351cyy128Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Daily",
+    "fundId": "113351cyy129",
+    "fundName": "113351cyy129Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy130",
+    "fundName": "113351cyy130Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy131",
+    "fundName": "113351cyy131Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "PENDING",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy132",
+    "fundName": "113351cyy132Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy133",
+    "fundName": "113351cyy133Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy134",
+    "fundName": "113351cyy134Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy135",
+    "fundName": "113351cyy135Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy136",
+    "fundName": "113351cyy136Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Monthly",
+    "fundId": "113351cyy137",
+    "fundName": "113351cyy137Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy138",
+    "fundName": "113351cyy138Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "UNAPPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy139",
+    "fundName": "113351cyy139Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Daily",
+    "fundId": "113351cyy140",
+    "fundName": "113351cyy140Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy141",
+    "fundName": "113351cyy141Long Fund Name Extra Detail",
+    "currency": "JPY",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy142",
+    "fundName": "113351cyy142Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "APPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Monthly",
+    "fundId": "113351cyy143",
+    "fundName": "113351cyy143Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy144",
+    "fundName": "113351cyy144Long Fund Name Extra Detail",
+    "currency": "AUD",
+    "status": "PENDING",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "All",
+    "frequency": "Daily",
+    "fundId": "113351cyy145",
+    "fundName": "113351cyy145Long Fund Name Extra Detail",
+    "currency": "CAD",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Monthly",
+    "fundId": "113351cyy146",
+    "fundName": "113351cyy146Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy147",
+    "fundName": "113351cyy147Long Fund Name Extra Detail",
+    "currency": "GBP",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Aggregate",
+    "frequency": "Daily",
+    "fundId": "113351cyy148",
+    "fundName": "113351cyy148Long Fund Name Extra Detail",
+    "currency": "USD",
+    "status": "APPROVED",
+    "lock": "Locked"
+  },
+  {
+    "fundType": "Portfolio",
+    "frequency": "Quarterly",
+    "fundId": "113351cyy149",
+    "fundName": "113351cyy149Long Fund Name Extra Detail",
+    "currency": "EUR",
+    "status": "UNAPPROVED",
+    "lock": "Unlocked"
+  }
+]

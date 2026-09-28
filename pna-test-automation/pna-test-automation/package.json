@@ -1,0 +1,20 @@
+{
+  "name": "pna-viewer-test-automation",
+  "version": "1.0.0",
+  "description": "AI-generated + Playwright-automated test suite for PNA Viewer screen",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate_testcases.js",
+    "build": "node scripts/build_specs.js",
+    "test": "playwright test",
+    "report": "playwright show-report",
+    "all": "npm run generate && npm run build && npm run test && npm run report"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0"
+  }
+}

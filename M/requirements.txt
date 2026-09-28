@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9          # for file uploads
+paddleocr==2.8.1                 # or latest 2.8+
+paddlepaddle==2.6.2              # CPU version; use paddlepaddle-gpu if you have CUDA
+opencv-python==4.10.0.84
+pillow==10.4.0
+pdf2image==1.17.0                # for PDF support
+poppler-utils                    # system dep for pdf2image (apt install poppler-utils or brew install poppler)

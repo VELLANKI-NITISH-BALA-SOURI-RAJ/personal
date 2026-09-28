@@ -1,0 +1,30 @@
+# Virtual Environments
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# Node Dependencies & Build Output
+node_modules/
+**/node_modules/
+.next/
+**/.next/
+dist/
+**/dist/
+build/
+**/build/
+
+# Python Cache & Bytecode
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Operating System Files
+.DS_Store
+Thumbs.db

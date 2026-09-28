@@ -1,0 +1,84 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  z-index: 100;
+  mix-blend-mode: difference;
+}
+
+.navbar-logo {
+  font-family: var(--font-heading);
+  font-size: 24px;
+  letter-spacing: 2px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.logo-cine {
+  color: var(--color-text-light);
+}
+
+.logo-daily {
+  color: var(--color-primary);
+  background: var(--color-text-light);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.navbar-links {
+  gap: 40px;
+  font-family: var(--font-heading);
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.navbar-links a {
+  color: var(--color-text-light);
+  position: relative;
+  transition: var(--transition-smooth);
+}
+
+.navbar-links a::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0%;
+  height: 2px;
+  background: var(--color-primary);
+  transition: var(--transition-smooth);
+}
+
+.navbar-links a:hover::after {
+  width: 100%;
+}
+
+.navbar-actions {
+  gap: 20px;
+}
+
+.icon-btn {
+  background: transparent;
+  border: none;
+  color: var(--color-text-light);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: var(--transition-smooth);
+}
+
+.icon-btn:hover {
+  color: var(--color-primary);
+}
+
+.menu-btn {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}

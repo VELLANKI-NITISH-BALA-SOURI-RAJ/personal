@@ -1,0 +1,6 @@
+node_modules/
+.env
+playwright-report/
+test-results/
+test-data/testcases.json
+tests/pna-viewer.generated.spec.js
